@@ -1,0 +1,22 @@
+.footer__texto {
+    display: flex;
+    justify-content: center;
+}
+
+.footer__texto--line {
+    width: 60vh;
+    height: .5px;
+    margin: 0;
+    align-self: center;
+    background-color: var(--texto-gris-card);
+    border: none;
+}
+
+.footer__texto--titulo {
+    margin: 0 1rem;
+    font-family: var(--fuente);
+    color: var(--texto-blanco);
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+}

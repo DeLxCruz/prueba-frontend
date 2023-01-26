@@ -1,0 +1,16 @@
+.head__redes {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+}
+
+.menu__redes{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.head__menu--icon{
+    padding-left: 2rem;
+}

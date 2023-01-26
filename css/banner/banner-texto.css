@@ -1,0 +1,10 @@
+.banner__texto {
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    font-family: var(--fuente);
+    color: var(--texto-blanco);
+    font-size: 4rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    width: min-content;
+}

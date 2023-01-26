@@ -1,0 +1,6 @@
+.experiencia__cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6rem;
+}

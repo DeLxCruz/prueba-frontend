@@ -1,0 +1,22 @@
+.footer__partners {
+    padding: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer__partners--card {
+    background-color: var(--background-azul-claro);
+    padding: .5rem 2rem;
+    text-align: center;
+    font-family: var(--fuente);
+    color: var(--texto-blanco);
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.footer__partners--boton {
+    padding: .5rem;
+    border: 1px solid var(--background-azul-boton);
+    background-color: var(--background-azul-gradient);
+}

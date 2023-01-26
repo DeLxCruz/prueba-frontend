@@ -1,0 +1,6 @@
+.head__lupa {
+    display: flex ;
+    align-items: center;
+    padding: 2.5rem;
+    border: 1px solid #ffffff;
+}

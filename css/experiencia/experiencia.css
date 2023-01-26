@@ -1,0 +1,23 @@
+.experiencia {
+    background-color: var(--background-morado);
+    height: 100vh;
+}
+
+.experiencia__titulo {
+    padding-top: 8rem;
+    font-family: var(--fuente);
+    color: var(--texto-blanco);
+    font-size: 2.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.experiencia__texto {
+    padding-top: 1.25rem;
+    font-family: var(--fuente);
+    color: var(--texto-gris-card);
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+}

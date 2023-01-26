@@ -1,0 +1,13 @@
+:root {
+    --background-gris: #707070;
+    --background-gris-oscuro: rgba(67, 75, 77, 0.74);
+    --background-azul-claro: #143791;
+    --background-azul-boton: #3C72FC;
+    --background-azul-gradient:#1437913d;
+    --background-morado: #0F0D1D;
+    --background-negro: #000000;
+    --texto-gris:#726F84;
+    --texto-gris-card:#8F8DA0;
+    --texto-blanco:#FCFCFC;
+    --fuente:'Jost', sans-serif;;
+}

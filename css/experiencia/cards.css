@@ -1,0 +1,30 @@
+.cards__descripcion {
+    display: flex;
+    flex-direction: column;
+    padding-right: 4rem;
+    padding-top: 2rem;
+}
+
+.cards__descripcion--titulo {
+    font-family: var(--fuente);
+    color: var(--texto-blanco);
+    font-size: 1.25rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    width:min-content;
+}
+
+.cards__deescipcion--texto {
+    font-family: var(--fuente);
+    color: var(--texto-gris-card);
+    font-size: .65rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-top: 3rem;
+}
+
+.cards__img {
+    display: flex;
+    align-items: flex-end;
+    padding-top: 4.75rem;
+}

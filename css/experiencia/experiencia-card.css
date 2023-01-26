@@ -1,0 +1,7 @@
+.experiencia__card {
+    background-color: var(--background-negro);
+    padding: 2.5rem;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 5rem;
+}

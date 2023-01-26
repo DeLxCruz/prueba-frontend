@@ -1,0 +1,10 @@
+.banner__titulo {
+    background-color: var(--background-gris-oscuro);
+    font-family: var(--fuente);
+    color: var(--texto-blanco);
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    width: fit-content;
+    padding: .75rem;
+}

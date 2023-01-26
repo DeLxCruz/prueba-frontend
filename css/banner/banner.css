@@ -1,0 +1,9 @@
+.banner {
+    background-color: var(--background-gris);
+    width: 100%;
+    height: calc(100vh - 138px);
+    display: flex;
+    flex-direction: column;
+    padding-left: 13rem;
+    padding-top: 10rem;
+}
